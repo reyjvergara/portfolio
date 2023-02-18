@@ -5,7 +5,7 @@ This is a bare-bones Angular project that has everything you need to quickly dep
 
 Click this button and it will help you create a new repo, create a new Netlify project, and deploy!
 
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/~addrepoURLhere~})
+[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/portfolio-website)
 
 ## Table of Contents:
 
