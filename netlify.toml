@@ -10,7 +10,7 @@
 [[plugins]]
   package = "netlify-plugin-cypress"
 
-  [plugins.inputs.postBuild]
+  [plugins.inputs.onSuccess]
     enable = true
 
   [plugins.inputs]
