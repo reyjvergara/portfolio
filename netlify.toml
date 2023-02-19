@@ -7,11 +7,12 @@
   to = "/index.html"
   status = 200
 
-[[plugins]]
-  package = "netlify-plugin-cypress"
 
-  [plugins.inputs.onSuccess]
-    enable = true
-
-  [plugins.inputs]
-    enable = false
+#[[plugins]]
+#  package = "netlify-plugin-cypress"
+#
+#  [plugins.inputs.onSuccess]
+#    enable = true
+#
+#  [plugins.inputs]
+#    enable = false
