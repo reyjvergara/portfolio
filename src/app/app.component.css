@@ -19,9 +19,9 @@
   padding-top: 25rem;
 }
 #content{
-  background-color: #215bf9;
-  padding: 50px;
-  
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #edeeef;
 }
 ul {
   list-style-type: none;
@@ -50,19 +50,39 @@ li{ display: inline-block;}
 .ObjectiveContainer{
   display: flex;
   flex-direction: row;
+  justify-content: center;
+}
+
+.objective-text .name
+{
+  font-size: 1.6em;
+}
+
+.objective-text .secondDets
+{
+  font-size: 1.3em;
+  padding-bottom: 0;
 }
 
 .objective-text
 {
+  font-family: 'Lucida Sans', Arial, sans-serif;
   padding-left: 1em;
-  color: aliceblue;
-  font-size: 1.5em;
+  color: black;
+  font-size: 1.4em;
+  font-weight: 300;
+  margin-right: 3rem;
 }
 
 .anObjective img{
   width:300px;
   height: auto;
   border-radius: 20%;
+  
+}
+
+.my_img_2{
+  padding-left: 3rem;
 }
 /*
 ul li:hover
@@ -112,12 +132,15 @@ ul li:hover
 }
 
 .header img{
-  padding-top: 2em;
   width: 300px;;
   height: auto;
   border-radius: 50%;
   margin: auto;
 }
+.my_img{
+  padding-top: 2em;
+}
+
 .header{
   text-align: center;
   display: flex;
