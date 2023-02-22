@@ -19,13 +19,12 @@
   padding-top: 25rem;
 }
 #content{
-  background-color: rgb(85, 94, 214);
+  background-color: #215bf9;
   padding: 50px;
   
 }
 ul {
   list-style-type: none;
-  
   margin: 0;
   padding-top: 0;
   display: flex;
@@ -40,6 +39,31 @@ ul {
 
 
 li{ display: inline-block;}
+
+.my-name{
+  max-width: max-content;
+}
+#copyri{
+  font-size: .7em;
+}
+
+.ObjectiveContainer{
+  display: flex;
+  flex-direction: row;
+}
+
+.objective-text
+{
+  padding-left: 1em;
+  color: aliceblue;
+  font-size: 1.5em;
+}
+
+.anObjective img{
+  width:300px;
+  height: auto;
+  border-radius: 20%;
+}
 /*
 ul li:hover
 {
